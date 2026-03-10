@@ -12,5 +12,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day | Problem | Link |
 |----|----|----|
 | Day 1 | Combine Two Tables | https://leetcode.com/problems/combine-two-tables/ |
-
+| Day 2 | Second Highest Salary | https://leetcode.com/problems/second-highest-salary/ |
 More solutions will be added daily.
