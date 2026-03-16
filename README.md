@@ -18,4 +18,6 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 5 | Customers Who Never Order | https://leetcode.com/problems/customers-who-never-order/ |
 | Day 6 | Department Highest Salary | https://leetcode.com/problems/department-highest-salary/ |
 | Day 7 | Delete Duplicate Emails | https://leetcode.com/problems/delete-duplicate-emails/ |
+| Day 8 | Rising Temperature | https://leetcode.com/problems/rising-temperature/ |
+
 More solutions will be added daily.
