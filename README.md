@@ -19,5 +19,6 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 6 | Department Highest Salary | https://leetcode.com/problems/department-highest-salary/ |
 | Day 7 | Delete Duplicate Emails | https://leetcode.com/problems/delete-duplicate-emails/ |
 | Day 8 | Rising Temperature | https://leetcode.com/problems/rising-temperature/ |
+| Day 9 | Game Play Analysis I | https://leetcode.com/problems/game-play-analysis-i/ |
 
 More solutions will be added daily.
