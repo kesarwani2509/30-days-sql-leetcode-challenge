@@ -20,6 +20,7 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 7 | Delete Duplicate Emails | https://leetcode.com/problems/delete-duplicate-emails/ |
 | Day 8 | Rising Temperature | https://leetcode.com/problems/rising-temperature/ |
 | Day 9 | Game Play Analysis I | https://leetcode.com/problems/game-play-analysis-i/ |
-| Day 10|  Employee Bonus | https://leetcode.com/problems/employee-bonus/ |
+| Day 10| Employee Bonus | https://leetcode.com/problems/employee-bonus/ |
+| Day 11| Rank Scores | https://leetcode.com/problems/rank-scores/ |
 
 More solutions will be added daily.
