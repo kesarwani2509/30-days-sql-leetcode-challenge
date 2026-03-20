@@ -22,5 +22,6 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 9 | Game Play Analysis I | https://leetcode.com/problems/game-play-analysis-i/ |
 | Day 10| Employee Bonus | https://leetcode.com/problems/employee-bonus/ |
 | Day 11| Rank Scores | https://leetcode.com/problems/rank-scores/ |
+| Day 12| Big Countries | https://leetcode.com/problems/big-countries/ |
 
 More solutions will be added daily.
