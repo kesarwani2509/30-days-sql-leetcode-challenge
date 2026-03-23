@@ -1,4 +1,5 @@
 -- Day 14: Triangle Judgement
+-- LeetCode Problem #610
 
 SELECT x, y, z,
        CASE
