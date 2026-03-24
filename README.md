@@ -25,4 +25,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 12| Big Countries | https://leetcode.com/problems/big-countries/ |
 | Day 13| Sales Person | https://leetcode.com/problems/sales-person/ |
 | Day 14| Triangle Judgement | https://leetcode.com/problems/triangle-judgement/ |
+| Day 15| Biggest Single Number | https://leetcode.com/problems/biggest-single-number/ |
 More solutions will be added daily.
