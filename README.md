@@ -27,4 +27,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 14| Triangle Judgement | https://leetcode.com/problems/triangle-judgement/ |
 | Day 15| Biggest Single Number | https://leetcode.com/problems/biggest-single-number/ |
 | Day 16| Swap Sex of Employees | https://leetcode.com/problems/swap-sex-of-employees/ | 
+| Day 17| Exchange Seats | https://leetcode.com/problems/exchange-seats/ |
 More solutions will be added daily.
