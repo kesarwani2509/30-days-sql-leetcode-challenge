@@ -30,4 +30,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 17| Exchange Seats | https://leetcode.com/problems/exchange-seats/ |
 | Day 18| Actors Directors | https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/ |
 | Day 19| Product Sales Analysis I | https://leetcode.com/problems/product-sales-analysis-i/ |
+| Day 20| Project Employees I | https://leetcode.com/problems/project-employees-i/ |
 More solutions will be added daily.
