@@ -31,4 +31,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 18| Actors Directors | https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/ |
 | Day 19| Product Sales Analysis I | https://leetcode.com/problems/product-sales-analysis-i/ |
 | Day 20| Project Employees I | https://leetcode.com/problems/project-employees-i/ |
+| Day 21| Department Top Three Salaries | https://leetcode.com/problems/department-top-three-salaries/ |
 More solutions will be added daily.
