@@ -32,4 +32,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 19| Product Sales Analysis I | https://leetcode.com/problems/product-sales-analysis-i/ |
 | Day 20| Project Employees I | https://leetcode.com/problems/project-employees-i/ |
 | Day 21| Department Top Three Salaries | https://leetcode.com/problems/department-top-three-salaries/ |
+| Day 22| Game Play Analysis IV | https://leetcode.com/problems/game-play-analysis-iv/ |
 More solutions will be added daily.
