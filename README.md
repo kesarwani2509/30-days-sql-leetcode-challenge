@@ -33,4 +33,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 20| Project Employees I | https://leetcode.com/problems/project-employees-i/ |
 | Day 21| Department Top Three Salaries | https://leetcode.com/problems/department-top-three-salaries/ |
 | Day 22| Game Play Analysis IV | https://leetcode.com/problems/game-play-analysis-iv/ |
+| Day 23| Managers with at Least 5 Direct Reports | https://leetcode.com/problems/managers-with-at-least-5-direct-reports/ |
 More solutions will be added daily.
