@@ -34,4 +34,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 21| Department Top Three Salaries | https://leetcode.com/problems/department-top-three-salaries/ |
 | Day 22| Game Play Analysis IV | https://leetcode.com/problems/game-play-analysis-iv/ |
 | Day 23| Managers with at Least 5 Direct Reports | https://leetcode.com/problems/managers-with-at-least-5-direct-reports/ |
+| Day 24| 602. Friend Requests II: Who Has the Most Friends | https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/ |
 More solutions will be added daily.
