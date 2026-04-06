@@ -36,4 +36,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 23| Managers with at Least 5 Direct Reports | https://leetcode.com/problems/managers-with-at-least-5-direct-reports/ |
 | Day 24| Friend Requests II: Who Has the Most Friends | https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/ |
 | Day 25| Sales Analysis III | https://leetcode.com/problems/sales-analysis-iii/ |
+| Day 26| Article Views I | https://leetcode.com/problems/article-views-i/ |
 More solutions will be added daily.
