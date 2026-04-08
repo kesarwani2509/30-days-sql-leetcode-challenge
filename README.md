@@ -37,4 +37,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 24| Friend Requests II: Who Has the Most Friends | https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/ |
 | Day 25| Sales Analysis III | https://leetcode.com/problems/sales-analysis-iii/ |
 | Day 26| Article Views I | https://leetcode.com/problems/article-views-i/ |
+| Day 27| Market Analysis I | https://leetcode.com/problems/market-analysis-i/ |
 More solutions will be added daily.
