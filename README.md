@@ -38,4 +38,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 25| Sales Analysis III | https://leetcode.com/problems/sales-analysis-iii/ |
 | Day 26| Article Views I | https://leetcode.com/problems/article-views-i/ |
 | Day 27| Market Analysis I | https://leetcode.com/problems/market-analysis-i/ |
+| Day 28| Product Price | https://leetcode.com/problems/product-price-at-a-given-date/ |
 More solutions will be added daily.
