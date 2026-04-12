@@ -40,4 +40,5 @@ This repository contains my solutions for the **30 Days SQL LeetCode Challenge**
 | Day 27| Market Analysis I | https://leetcode.com/problems/market-analysis-i/ |
 | Day 28| Product Price | https://leetcode.com/problems/product-price-at-a-given-date/ |
 | Day 29| Immediate Food Delivery | https://leetcode.com/problems/immediate-food-delivery-ii/|
-More solutions will be added daily.
+| Day 30| Reformat Department Table | https://leetcode.com/problems/reformat-department-table/ |
+
